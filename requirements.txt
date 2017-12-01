@@ -1,0 +1,8 @@
+gunicorn==19.7.1
+dash==0.18.3
+dash-renderer==0.10.0
+dash-html-components==0.7.0
+dash-core-components==0.12.6
+plotly
+pandas==0.20.3
+numpy
